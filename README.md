@@ -1,5 +1,7 @@
 # aws-terraform-stepfunction-demo
-A basic example of an AWS Step Function using Lambdas with Terraform
+A basic example of an AWS Step Function using Lambdas with Terraform.
+
+[![aws-terraform-stepfunction-demo](https://spikything.com/projects/aws-terraform-stepfunction-demo/stepfunction-execute.gif)](https://github.com/spikything/aws-terraform-stepfunction-demo/)
 
 ### AWS CLI authentication
 
